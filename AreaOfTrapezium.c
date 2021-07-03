@@ -9,9 +9,6 @@ Example Input/Output 2:Input:5 4 5
 Output:22.5
 */
 
-
-
-
 #include<stdio.h>
 #include<stdlib.h>
 
