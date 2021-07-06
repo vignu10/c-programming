@@ -17,6 +17,10 @@ Output:
 5.0000*/
 
 
+/*Formula:
+       Squareroot(x2-x1)the whole square- (y2-y1) the whole Square;*/
+
+
 
 #include<stdio.h>
 #include<math.h>
